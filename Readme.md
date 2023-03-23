@@ -2,7 +2,7 @@
 #### - Atividade realizada no 2º período para a disciplina de Programação de Computadores II.
 #### - Curso de Engenharia da Computação - CEFET-MG, Campus V. 
 #### - Programa feito na linguagem C++. 
-#### - Instruções para a realização da atividade e resolução do problema se encontram nos dois arquivos pdf's disponibilizados. <br><br>
+#### - Instruções para a realização da atividade e resolução do problema se encontram nos dois arquivos pdf's disponibilizados dentro da pasta "Proposta e Resolução". <br><br>
 
 
 ## Compilação e Execução
